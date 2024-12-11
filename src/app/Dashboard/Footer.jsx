@@ -77,16 +77,16 @@ const Footer = () => {
         <div className="flex space-x-4">
           <h3 className="text-xl font-semibold mb-4">Social</h3>
           <ul className="flex mb-10 space-x-4">
-            <Link href={"https://www.instagram.com"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
+            <Link href={"https://www.linkedin.com/in/sakshiwebdeveloper/"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
               <FaLinkedin size={24} />
             </Link>
-            <Link href={"https://www.instagram.com"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
+            <Link href={"https://github.com/sakshikumari09"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
               <RiTwitterXLine size={24} />
             </Link>
-            <Link href={"https://www.instagram.com"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
+            <Link href={"https://github.com/sakshikumari09"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
               <FaInstagram size={24} />
             </Link>
-            <Link href={"https://www.instagram.com"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
+            <Link href={"https://www.baksish.in/"} target="_blank" className="cursor-pointer hover:scale-90 duration-500">
               <FaFacebookF size={24} />
             </Link>
           </ul>
